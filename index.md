@@ -9,11 +9,9 @@
 - **LinkedIn:** [I'm David Monsalve](https://www.linkedin.com/in/david-monsalve-a4503418b/)
 
 ---
-
-[🔓 Abrir PDF](./David-CV.pdf)  
-[⬇️ Descargar PDF](./CVDavidMonsalve.pdf)
-
----
+[🇬🇧 English Version](en.md)  
+[🔓 Abrir PDF](CVDavidMonsalve.pdf)  
+[⬇️ Descargar PDF](CVDavidMonsalve.pdf)
 
 ---
 
