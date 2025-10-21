@@ -8,6 +8,12 @@
 🧠 Proactivo | Comunicador eficaz | En constante mejora
 - **LinkedIn:** [I'm David Monsalve](https://www.linkedin.com/in/david-monsalve-a4503418b/)
 
+---
+
+[🔓 Abrir PDF](./David-CV.pdf)  
+[⬇️ Descargar PDF](./CVDavidMonsalve.pdf)
+
+---
 
 ---
 
