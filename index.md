@@ -59,9 +59,9 @@ Aprovisionamiento y configuración de recursos de Azure, incluyendo App Services
 
 ---
 ## 🎓 Certificaciones
-AWS Cloud Practitioner
-AZ 104 Administrador
-AZ 900 Fundamentos
+- AWS Cloud Practitioner
+- AZ 104 Administrador
+- AZ 900 Fundamentos
 
 ## 📬 CONTACTO
 
