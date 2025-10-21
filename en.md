@@ -9,8 +9,9 @@
 
 ---
 
-[🔓 Open PDF](./David-CV.pdf)  
-[⬇️ Download PDF](./CVDavidMonsalve.pdf)
+[🇪🇸 Versión en Español](index.md)  
+[🔓 Open PDF](CVDavidMonsalve.pdf)  
+[⬇️ Download PDF](CVDavidMonsalve.pdf)
 
 ---
 
