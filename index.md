@@ -6,6 +6,8 @@
 📍 Envigado, Colombia  
 💻 Ingeniero de Sistemas | Especialista en Azure | DevOps  
 🧠 Proactivo | Comunicador eficaz | En constante mejora
+- **LinkedIn:** [I'm David Monsalve](https://www.linkedin.com/in/david-monsalve-a4503418b/)
+
 
 ---
 
@@ -66,4 +68,4 @@ Aprovisionamiento y configuración de recursos de Azure, incluyendo App Services
 ## 📬 CONTACTO
 
 - GitHub: [https://github.com/Chapaz10](https://github.com/Chapaz10)  
-[![LinkedIn: David Chapaz](https://img.shields.io/badge/LinkedIn-I'm%20David%20Chapaz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-monsalve-a4503418b/)
+
