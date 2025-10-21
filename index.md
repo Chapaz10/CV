@@ -10,7 +10,7 @@ title: "David Stiven Monsalve Restrepo"
 📍 Envigado, Colombia  
 💻 Ingeniero de Sistemas | Especialista en Azure | DevOps  
 🧠 Proactivo | Comunicador eficaz | En constante mejora
-- **LinkedIn:** [I'm David Monsalve](https://www.linkedin.com/in/david-monsalve-a4503418b/)
+- **LinkedIn:** [Soy David Monsalve](https://www.linkedin.com/in/david-monsalve-a4503418b/)
 
 ---
 [🇬🇧 English Version](en.md)  
