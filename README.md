@@ -1,15 +1,14 @@
 <h2 align="left">Hi 👋</h2>
-<h3 >My name is Sebastian, I'm from Colombia and I'm a DevOps Engineer.</h3>
+<h3 >My name is David, I'm from Colombia and I'm a Cloud Engineer.</h3>
 
-- Currently working for [EPAM Neoris](https://epamneoris.com) as a Experienced DevOps.
-- How to reach me: [**in/im-sebastian-zapata**](https://www.linkedin.com/in/im-sebastian-zapata/)
-- Ask me about: **AWS | Kubernetes | Docker | Azure DevOps | Terraform | Networking | Git | Security | Linux**
+- Currently working for [TIMIA](https://timia.ai/) as a Data Engineer.
+- How to reach me: [**in/im-david-monsalve**](https://www.linkedin.com/in/david-monsalve-a4503418b/)
+- Ask me about: **AWS | Docker | Azure | Terraform | Networking  | Security | Windows**
 
 <h1></h1>
 <h3 align="left">Skills</h3>
 
-- I have been working in the AWS cloud since 2020
-- Using Kubernetes in Production since 2022
-- AWS, Terraform, Docker, all the cloud stuff
-- CI/CD on Azure DevOps, GitHub Actions, Jenkins
+- I have been working in the Azure cloud since 2021
+- AZure, Terraform, all the cloud stuff
+- CI/CD on Azure DevOps, GitHub Actions,
 - Some Python coding.
