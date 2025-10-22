@@ -12,3 +12,8 @@
 - Azure, Terraform, all the cloud stuff
 - CI/CD on Azure DevOps, GitHub Actions,
 - Some Python coding.
+
+<h1></h1>
+<h3 align="left">Languages</h3>
+- Spanish (Native)
+- English C1
