@@ -1,6 +1,6 @@
 const resources = {
-  en: { pdf: 'data/CV_Sebastian.pdf', templateId: 'template-en' },
-  es: { pdf: 'data/HV_Sebastian.pdf', templateId: 'template-es' }
+  en: { pdf: 'data/CV_David.pdf', templateId: 'template-en' },
+  es: { pdf: 'data/HV_David.pdf', templateId: 'template-es' }
 };
 
 const uiTexts = {
@@ -29,7 +29,7 @@ function applyUiTexts(lang){
   downloadBtn.title = texts.downloadTitle;
   downloadBtn.setAttribute('aria-label', texts.download);
 
-  document.title = 'Sebastian.cv';
+  document.title = 'David.cv';
 }
 
 function waitForTemplate(id, attempts = 8, delayMs = 60){
