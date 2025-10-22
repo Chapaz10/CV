@@ -15,5 +15,5 @@
 
 <h1></h1>
 <h3 align="left">Languages</h3>
-- Spanish (Native)
-- English C1
+- Spanish (Native),
+- English B2.
