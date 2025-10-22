@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>David Monsalve - CV</title>
+
+  <link rel="icon" href="data/profile.JPG" type="image/jpeg">
+  <link rel="shortcut icon" href="data/profile.JPG">
+  <link rel="apple-touch-icon" href="data/profile.JPG">
+
+  <script>
+    (function(){
+      try {
+        const url = 'data/profile.JPG?v=' + Date.now();
+        let el = document.querySelector('link[rel~="icon"]');
+        if (!el) { el = document.createElement('link'); el.rel = 'icon'; document.head.appendChild(el); }
+        el.href = url;
+      } catch(e){}
+    })();
+  </script>
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar" role="banner">
+    <nav class="lang-controls" aria-label="Idioma">
+      <button id="btn-en" class="lang-btn" data-lang="en" aria-pressed="false">EN</button>
+      <button id="btn-es" class="lang-btn" data-lang="es" aria-pressed="false">ES</button>
+      <a id="openBtn" class="open-btn" href="CVDavidMonsalve.pdf" target="_blank" rel="noopener">Abrir PDF</a>
+      <a id="downloadBtn" class="download-btn" href="CVDavidMonsalve.pdf" download>Descargar</a>
+    </nav>
+  </header>
+
+  <main class="viewer" role="main">
+    <article id="content" class="content" aria-live="polite"></article>
+
+    <!-- English Template -->
+    <template id="template-en">
+      <div class="container">
+        <header class="hero">
+          <h1>David Stiven Monsalve Restrepo</h1>
+          <h2 class="hero-subtitle">Cloud Administrator</h2>
+        </header>
+
+        <p>📍 Envigado, Colombia</p>
+        <p>💻 Systems Engineer | Azure Specialist | DevOps</p>
+        <p>🧠 Proactive | Effective Communicator | Constant Learner</p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/david-monsalve-a4503418b/" target="_blank">David Monsalve</a></p>
+
+        <section>
+          <h2>About Me</h2>
+          <p>Systems engineer with 4 years of experience in dynamic environments. Known for a proactive attitude, commitment to continuous improvement, and strong communication skills. Easily adaptable to new challenges and technologies, especially within the Azure ecosystem.</p>
+        </section>
+
+        <section>
+          <h2>Experience</h2>
+          <h3>Timia — Data Engineer & Azure Administrator <span class="xp-dates">(Jun 2025 – Present)</span></h3>
+          <ul>
+            <li>Data pipeline validation in Azure Data Factory</li>
+            <li>Control mechanisms and secret creation in Key Vault</li>
+            <li>Technical support in cloud environments</li>
+            <li><strong>Tech:</strong> Azure Data Factory, Azure Key Vault, Azure DevOps, PowerShell, Azure Portal</li>
+          </ul>
+
+          <h3>Indra — Azure Administrator <span class="xp-dates">(Mar 2025 – Jun 2025)</span></h3>
+          <ul>
+            <li>Implementation of App Services, Function Apps, and Key Vaults</li>
+            <li>Creation of Logic Apps and API management</li>
+            <li>Resource validation and dashboards in Azure Advisor</li>
+            <li><strong>Tech:</strong> App Services, Function Apps, Key Vaults, Logic Apps, Azure Advisor</li>
+          </ul>
+
+          <h3>Software One — Azure Consultant Administrator <span class="xp-dates">(Apr 2024 – Feb 2025)</span></h3>
+          <ul>
+            <li>Provisioning and configuration of Azure resources</li>
+            <li>Access control setup and best practice implementation</li>
+            <li><strong>Tech:</strong> App Services, Functions, Key Vault, Storage, Data Factory, Logic Apps, API Management, Advisor</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Skills</h2>
+          <ul>
+            <li>Azure Environment Administration</li>
+            <li>Automation with PowerShell</li>
+            <li>CI/CD using Azure DevOps</li>
+            <li>Cloud Security</li>
+            <li>Effective Communication & Teamwork</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Education</h2>
+          <p>Informatics Engineering — Fundación Universitaria Católica del Norte, 2023</p>
+        </section>
+
+        <section>
+          <h2>Certifications</h2>
+          <ul>
+            <li>AWS Cloud Practitioner</li>
+            <li>AZ-104 Azure Administrator</li>
+            <li>AZ-900 Azure Fundamentals</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Contact</h2>
+          <p>GitHub: <a href="https://github.com/Chapaz10" target="_blank">github.com/Chapaz10</a></p>
+        </section>
+      </div>
+    </template>
+
+    <!-- Spanish Template -->
+    <template id="template-es">
+      <div class="container">
+        <header class="hero">
+          <h1>David Stiven Monsalve Restrepo</h1>
+          <h2 class="hero-subtitle">Administrador Cloud</h2>
+        </header>
+
+        <p>📍 Envigado, Colombia</p>
+        <p>💻 Ingeniero de Sistemas | Especialista en Azure | DevOps</p>
+        <p>🧠 Proactivo | Comunicador eficaz | En constante mejora</p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/david-monsalve-a4503418b/" target="_blank">Soy David Monsalve</a></p>
+
+        <section>
+          <h2>Sobre mí</h2>
+          <p>Ingeniero de sistemas con 4 años de experiencia en entornos dinámicos. Me destaco por mi actitud proactiva, compromiso con la mejora continua y habilidades de comunicación. Me adapto fácilmente a nuevos retos y tecnologías, especialmente en el ecosistema de Azure.</p>
+        </section>
+
+        <section>
+          <h2>Experiencia</h2>
+
+          <h3>Timia — Ingeniero de datos y administrador en Azure <span class="xp-dates">(06/2025 – Actualidad)</span></h3>
+          <ul>
+            <li>Validación de canalización de datos en Azure Data Factory</li>
+            <li>Revisión de mecanismos de control y creación de secretos en Key Vault</li>
+            <li>Soporte técnico en entornos cloud</li>
+            <li><strong>Tecnologías:</strong> Azure Data Factory, Azure Key Vault, Azure DevOps, PowerShell, Azure Portal</li>
+          </ul>
+
+          <h3>Indra — Administrador Azure <span class="xp-dates">(03/2025 – 06/2025)</span></h3>
+          <ul>
+            <li>Implementación de App Services, Function Apps y Key Vaults</li>
+            <li>Creación de Logic Apps y gestión de APIs</li>
+            <li>Validación de recursos y dashboards en Azure Advisor</li>
+            <li><strong>Tecnologías:</strong> App Services, Function Apps, Key Vaults, Logic Apps, Azure Advisor</li>
+          </ul>
+
+          <h3>Software One — Consultor Administrador Azure <span class="xp-dates">(04/2024 – 02/2025)</span></h3>
+          <ul>
+            <li>Aprovisionamiento y configuración de recursos de Azure</li>
+            <li>Configuración del control de acceso y aplicación de buenas prácticas</li>
+            <li><strong>Tecnologías:</strong> App Services, Functions, Key Vault, Storage, Data Factory, Logic Apps, API Management, Azure Advisor</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Habilidades</h2>
+          <ul>
+            <li>Administración de entornos Azure</li>
+            <li>Automatización con PowerShell</li>
+            <li>CI/CD con Azure DevOps</li>
+            <li>Seguridad en la nube</li>
+            <li>Comunicación efectiva y trabajo en equipo</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Educación</h2>
+          <p>Ingeniería Informática — Fundación Universitaria Católica del Norte, 2023</p>
+        </section>
+
+        <section>
+          <h2>Certificaciones</h2>
+          <ul>
+            <li>AWS Cloud Practitioner</li>
+            <li>AZ-104 Administrador Azure</li>
+            <li>AZ-900 Fundamentos de Azure</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Contacto</h2>
+          <p>GitHub: <a href="https://github.com/Chapaz10" target="_blank">github.com/Chapaz10</a></p>
+        </section>
+      </div>
+    </template>
+  </main>
+
+  <script src="js/main.js" type="module"></script>
+</body>
+</html>
